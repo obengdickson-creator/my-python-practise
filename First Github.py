@@ -11,3 +11,5 @@ elif temp>= 15:
 
 else:
     print("Cool")
+
+print("I LOVE YOU")
